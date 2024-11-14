@@ -1,8 +1,0 @@
-
-layout_1:
-https://www.hotstar.com/in/home?ref=%2Fin
-
-layout_2:
-https://www.zee5.com/?utm_source=GoogleSearch&utm_medium=Mark_CPA&utm_campaign=Search_SVOD_ZEE5-Brand-ZEE5-Only-Ex-Performance&utm_term=zee5&utm_content=Brand-ZEE5-Only-Ex&gad_source=1&gclid=EAIaIQobChMIptDDi_HTiQMVk6NmAh026SlfEAAYASAAEgI0FfD_BwE&gclsrc=aw.ds
-
-
