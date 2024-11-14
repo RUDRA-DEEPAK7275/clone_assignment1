@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log In</title>
+    <link rel="stylesheet" href="netflix.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <!-- <div class="logo">
+                <img src="images/netflix-logo.jpg" alt="Netflix Logo">
+            </div> -->
+            <ul class="nav-links">
+                <li><a href="Netflix Clone.html">Home</a></li>
+                <li><a href="#">TV Shows</a></li>
+                <li><a href="#">Movies</a></li>
+                <li><a href="#">New & Feeds</a></li>
+                <li><a href="#">My Watchlist</a></li>
+            </ul>
+            </nav>
+            </header>
+          
+    <div class="topSide">
+        <div class="netflixIcon">
+            <a href="#">
+                <img src="images/Netflix-Logo2.png"
+                    class="img-netflixIcon" />
+            </a>
+        </div>
+        <div class="parent-login">
+            <form class="login-card">
+                <h1>Login</h1>
+                <div class="userInput">
+                    <input type="text" name="email"
+                           placeholder="Email or phone number"
+                           onfocus="inputOnFocus(this)"
+                        onblur="inputOnBlur(this)" />
+                </div>
+                <div class="userInput">
+                    <input type="password"
+                           name="password" 
+                           placeholder="Password" 
+                           onfocus="inputOnFocus(this)"
+                        onblur="inputOnBlur(this)" />
+                </div>
+                <div>
+                    <button class="btn-login">Log In</button>
+                </div>
+                <div class="remMe">
+                    <div>
+                        <input type="checkbox">
+                        <label class="cText">Remember me</label>
+                    </div>
+                </div>
+                <div class="login2">
+                    <img src="images/fb-icon.png"
+                        height="20" /><a href="#"
+                                         class="cLink fb">
+                  Login with Facebook</a>
+                </div>
+                <div class="Sign Up">
+                    New to Netflix? <a href="#" 
+                                       class="sLink">Sign up now</a>.
+                </div>
+                <!-- <div class="google cLink ">
+                    This page is protected by Google
+                  reCAPTCHA to ensure you're not a bot.
+                  <a href="#">Learn more.</a>
+                </div> -->
+            </form>
+        </div>
+    </div>
+</body>
+</html>
